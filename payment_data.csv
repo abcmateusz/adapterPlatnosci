@@ -1,0 +1,5 @@
+ccv,data_waznosci,email,haslo,metoda,numer_karty,zatwierdzenie
+,,test,halo,Paypal,,True
+0123,12/19,,,Karta,1234512341234,True
+10445,12,,,Karta,12312341234,True
+150,12/30,,,Karta,11313454,True

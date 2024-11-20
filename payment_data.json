@@ -1,0 +1,29 @@
+[
+    {
+        "metoda": "Paypal",
+        "email": "test",
+        "haslo": "halo",
+        "zatwierdzenie": true
+    },
+    {
+        "metoda": "Karta",
+        "numer_karty": "1234512341234",
+        "data_waznosci": "12/19",
+        "ccv": "0123",
+        "zatwierdzenie": true
+    },
+    {
+        "metoda": "Karta",
+        "numer_karty": "12312341234",
+        "data_waznosci": "12",
+        "ccv": "10445",
+        "zatwierdzenie": true
+    },
+    {
+        "metoda": "Karta",
+        "numer_karty": "11313454",
+        "data_waznosci": "12/30",
+        "ccv": "150",
+        "zatwierdzenie": true
+    }
+]
